@@ -1,0 +1,7 @@
+https://gale.udemy.com/course/langchain-python/learn/lecture/38564846#overview
+Learn all the basics of LangChain by building LLM-powered Python applications with OpenAI, HuggingFace and Chroma!
+
+TheCurryMan
+/
+LangChain-101-For-Beginners-Python
+https://github.com/TheCurryMan/LangChain-101-For-Beginners-Python/tree/main
